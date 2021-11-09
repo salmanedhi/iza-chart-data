@@ -1,0 +1,1 @@
+Bar chart showing gender pay gap percentages (2017) for Germany , Spain and the UK . \\n \\n Both Germany and the UK have a 21 % gap , whereas Spain is 15 % .

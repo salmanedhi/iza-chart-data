@@ -1,0 +1,1 @@
+Bar chart showing the representation of women in different university departments in Narvik . \\n \\n The lowest representation is in the Literature Department at 22 % , rising to the highest representation at 70 % in Engineering .

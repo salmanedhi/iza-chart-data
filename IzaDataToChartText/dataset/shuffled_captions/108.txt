@@ -1,0 +1,1 @@
+This graph shows the inclusivity of university departments towards female staff . The most inclusive departments - by a significant margin - are Arts and Literature . The least inclusive are Computer Science , MAthematics and Engineering . The most diverse , Literature , is 70 % female staff , compared to only 10 % in Mathematics .

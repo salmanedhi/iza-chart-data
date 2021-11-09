@@ -1,0 +1,1 @@
+This chart shows the percentage of women represented in the literature department . \\n From the chart we see that women are most represented in Engineering at 70 % , followed by Computer Science at 60 % , Mathematics at 55 % , Arts at 32 % and \\n least represented is literature at 24 % .

@@ -1,0 +1,1 @@
+This chart shows the closing stock prices at Akef Inc for the week . The chart shows how the closing stock prices go down each day . With a spike on Monday of 94 £ , Tuesday goes down to 70 £ , Wednesday decreases 63 £ , Thursday decreases further to 61 £ and then Friday has just 31 £ .

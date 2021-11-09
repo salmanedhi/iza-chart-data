@@ -1,0 +1,1 @@
+This chart shows the percentage of students that choose to study each subject . The graph shows that most students ( 50 % ) choose to study STEM subjects , while medicine and literature are the second most popular , with 20 % of students studying these subjects . The least popular subject is philosophy , with only 10 % of students studying this subject .

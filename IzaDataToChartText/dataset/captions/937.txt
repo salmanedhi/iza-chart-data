@@ -1,0 +1,1 @@
+This is a bar chart displaying the results of a study analysing the most inclusive university departments representation of women . The literature and arts departments have a considerably higher percentage than engineering , mathematics and computer science and average 65 % in comparison to the latter which average 20 %

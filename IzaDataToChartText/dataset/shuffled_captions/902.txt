@@ -1,0 +1,1 @@
+This graph shows the percentages of women in university departments . Mathematics is the least representative , with only approx. 10 % representation , while literature is the most , with almost 70 % women . The arts is close behind with 60 % , followed by Engineering at 30 % and Computer Science at 20 % .

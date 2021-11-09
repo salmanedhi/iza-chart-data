@@ -1,0 +1,1 @@
+This chart compares the success of teams in a quiz competition . \\n The lovely team were least successful with 9 mistakes . Smart kids made 6 mistakes and ABC made 5 . \\n The fearless team was top with only 1 mistake , Cats team came second with 3 mistakes and DIY came in 3rd place with 4 mistakes .

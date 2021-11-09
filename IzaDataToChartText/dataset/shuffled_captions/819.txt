@@ -1,0 +1,1 @@
+This bar chart shows the temperatures of the warmest cities in South America . \n\\n The coolest city shown is Bogota , at 16 degrees celsius , the warmest city shown is Belem , at 36 degrees celsius . \n\\n The cities in order of temperature , from coolest to warmest are ; Bogota , Santiago , Cordoba , Lima , Montevideo and Belem .

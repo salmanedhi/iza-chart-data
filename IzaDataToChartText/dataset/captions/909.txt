@@ -1,0 +1,1 @@
+This chart shows performances of various quiz teams in a quiz competition . \\n It shows that out of the selection , Team Lovely were least successful with 9 mistakes . Team Fearless were most successful with 1 mistake . \\n It is not clear whether these teams were the only teams participating , so it is hard to tell whether Fearless were the winning team .

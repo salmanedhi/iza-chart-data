@@ -1,0 +1,1 @@
+this folder contains the iza data transformed into chart2text so it can be used by the model in Chart2Text

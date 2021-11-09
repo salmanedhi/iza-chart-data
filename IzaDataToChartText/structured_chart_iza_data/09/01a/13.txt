@@ -1,0 +1,1 @@
+This chart shows the percentage of women in 5 different university departments . Women represent the majority in Literature ( 70 % ) and Arts ( 60 % ) , but are a minority in Engineering ( 30 % ) , Computer Science ( 20 % ) and Mathematics ( 10 % ) .

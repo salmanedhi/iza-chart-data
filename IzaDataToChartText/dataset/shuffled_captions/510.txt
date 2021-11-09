@@ -1,0 +1,1 @@
+The graph shows the closing stock price of Akef Inc across one working week i.e Monday to Friday . It shows that on Wednesday the closing stock price was at it 's highest at 74 an increase from 51 on Monday through 62 on Tuesday . However , it decreased markedly on Thursday and then Friday and closed the week on 8 .

@@ -1,0 +1,1 @@
+The graph describes the most explored glaciers , measured by number of expeditions taken . \n The most explored glacier is Mefonna ( 13 expeditions ) , followed by Akkem ( 9 expeditions ) . The least explored glacier is Tasman ( 2 expeditions ) .

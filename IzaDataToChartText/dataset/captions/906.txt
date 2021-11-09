@@ -1,0 +1,1 @@
+This graph compares the most successful quiz teams and the number of mistakes they make . The team that makes the least mistakes is fearless with one mistake , with the most being team lovely with 11 mistakes . The other mistakes made are , Cats with 3 , DIY with 4 , Smart Kids with 6 , and ABC with 5 . The average amount of mistakes made from the most successful teams is 4.33 .

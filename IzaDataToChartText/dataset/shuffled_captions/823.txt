@@ -1,0 +1,1 @@
+This chart show the closing stock price for Akef Inc over the course of a week . \\n On Monday the stock closed at £ 50 , then rose to £ 63 on Tuesday and again rose to £ 74 on Wednesday . The stock plummeted to £ 22 on Thursday and dropped again on Friday , closing at £ 9 .

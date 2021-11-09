@@ -1,0 +1,1 @@
+This graph shows a measurement of success for teams in a quiz competition . Team Fearless are the most successful , making only 1 mistake , with Team Lovely the least successful with 9 mistakes . In descending order , the remaining teams were Team Smart Kids with 6 mistakes ; Team ABC with 5 ; Team DIY with 4 and Team Cats with 3 mistakes .

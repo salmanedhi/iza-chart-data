@@ -1,0 +1,1 @@
+We have here a bar chart representing women in different sector in Benoni . \\n It is divided into four main sectors : Financial Groups , Tech , Insurance and Law Firms . \\n The percentage of representation across these sectors starts at 50 % for the financial groups , just over 60 % for tech , 65 % for Insurance and 35 % for Law Firms .

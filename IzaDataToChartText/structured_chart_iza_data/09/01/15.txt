@@ -1,0 +1,1 @@
+This graphs shows female representation across university departments . 70 % of people in literature are female , 60 % in Arts are female , 30 % in engineering , 20 % in computer science and 10 % in mathematics .

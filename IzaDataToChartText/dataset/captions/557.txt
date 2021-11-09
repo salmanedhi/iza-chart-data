@@ -1,0 +1,1 @@
+This graph shows the closing stock price for Akef Inc. on each week day . The closing stock price for Akef Inc. was at its highest point for the week on Wednesday , when it was roughly £ 74 . It dropped after its peak on Wednesday to £ 22 on Thursday , and £ 9 on Friday . Monday and Tuesday saw the stock gain its high price , with stock price at £ 51 and £ 62 respectively .

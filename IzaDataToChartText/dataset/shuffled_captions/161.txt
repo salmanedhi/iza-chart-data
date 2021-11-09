@@ -1,0 +1,1 @@
+This graph shows the subjects that students choose to study at university . 50 % of all students are involved in STEM subjects , 20 % are in Literature , 20 % in Medicine and 10 % in Philosophy .

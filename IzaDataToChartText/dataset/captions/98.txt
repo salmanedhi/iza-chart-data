@@ -1,0 +1,1 @@
+This chart shows the number of top 100 universities in each continent . There are 50 in the American continent , 30 in Europe and 20 in Asia . Africa and Australia show as having 5 of the top 100 universities each

@@ -1,0 +1,1 @@
+This charts shows the average median salary per year for software engineers with respect to their degree type . Not surprisingly , those with no degree earn the least ; and those with a PhD earn the most . There is a difference of about $ 30 ,000 between these average earnings .

@@ -1,0 +1,1 @@
+This graph compares the least equal countries in regards of the gender pay gap , with the percentage difference in pay given on the y axis , and the country given on the x axis . Spain is the most equal , at a 15 % difference in pay between male and female . The UK is the second most equal at 20.5 % . Germany is the least equal of the three countries , at 21 % .

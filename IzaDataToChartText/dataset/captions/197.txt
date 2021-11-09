@@ -1,0 +1,1 @@
+The graph shows the relation of the day of the week against closing stock prices . Monday has the highest closing stock price at £ 92 and friday as the lowest at only £ 30

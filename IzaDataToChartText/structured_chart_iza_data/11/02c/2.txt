@@ -1,0 +1,1 @@
+This chart shows the closing stock prices for Akef Inc. on Wednesday in comparison to the rest of the week from Monday to Friday . Stock prices rose from Monday at 50 GBP to around 75 GBP on Wednesday . However , prices then decreased to 20 GBP , then 10 GBP on Thursday and Friday respectively .

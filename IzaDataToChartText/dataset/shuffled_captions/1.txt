@@ -1,0 +1,1 @@
+This graph is showing the percentage of female representation in various departments . The lowest , coming in at 22 % is Literature ; there is 32 % female representation in Arts . A jump up to 55 % in Mathematics , followed by a 5 % increase to 60 % in Computer science , and finally the most female representation being Engineering with 70 % .

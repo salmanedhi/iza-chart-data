@@ -1,0 +1,1 @@
+The chart shows American Inc closing stock prices for the week . \\n \\n On Monday the closing stock price was £ 51 . On Tuesday it increased up to £ 61 . By Wednesday it continued to increase to £ 72 but then on Thursday it dropped dramatically to £ 21 and by Friday the stock price dropped to only £ 9.80 .

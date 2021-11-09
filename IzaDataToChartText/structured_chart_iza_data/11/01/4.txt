@@ -1,0 +1,1 @@
+The graph details the closing stock price for the company Akef Inc in GBP over the course of the working week ( Mon - Fri ) . The graph shows that overall , the stock price dropped as the week progressed , with significant drops from Mon / Tues and Thurs / Fri

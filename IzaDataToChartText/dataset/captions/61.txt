@@ -1,0 +1,1 @@
+This graph shows that the median salary a software engineer increases as the level of their degree rises . Those with a PhD earn over $ 60 ,000 , about $ 10 ,000 per year more than those with a masters degree , who in turn earn about $ 10 ,000 per year more than those with a bachelor degree . Those with no degree earn the least at about $ 35 ,000 per year .

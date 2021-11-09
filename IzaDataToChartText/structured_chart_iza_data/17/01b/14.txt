@@ -1,0 +1,1 @@
+The chart shows the least explored glaciers by the number of expeditions . \n The least explored glacier was Tasman , with only 2 expeditions . Followed by Volta , with 4 expeditions , slightly higher than the other . We also found that the most explored glacier was Mefonna , which had the greatest number of expeditions at 13 expeditions .

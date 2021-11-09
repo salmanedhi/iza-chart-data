@@ -1,0 +1,1 @@
+The chart shows the closing stock price by days of the week . The stock price is highest mid-week on Wednesday and Friday is where the stock price is the lowest .

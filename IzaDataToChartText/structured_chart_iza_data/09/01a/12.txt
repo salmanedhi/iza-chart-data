@@ -1,0 +1,1 @@
+The most inclusive university department given representation of women is literature at 70 % , next is art at 60 % . Engineering is 30 % , computer science is 20 % and last is Maths with 10 % .

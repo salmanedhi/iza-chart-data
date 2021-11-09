@@ -1,0 +1,1 @@
+The graph depicts female representation in the literature department , in comparison to other departments . Literature has the lowest rating for female representation of all the featured departments , with only 22 % . The Arts are next with 32 % , then Maths with 55 % , Computer Science with 60 % and finally Engineering with 70 % .

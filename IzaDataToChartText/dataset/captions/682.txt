@@ -1,0 +1,1 @@
+The chart compares the prices of 5 camera brands in £ sterling . The most expensive at £ 76 is Cambo followed by Memento at £ 70 then Sigma at £ 52 , Hunten at £ 58 and Konica at £ 55 . \n There is no range of cameras in the brand family given nor any data about segments .

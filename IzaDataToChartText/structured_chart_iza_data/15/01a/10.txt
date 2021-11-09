@@ -1,0 +1,1 @@
+This graph shows the least successfull teams in a quiz competition , ranked by number of mistakes . Lovely was the least successful with 9 mistakes followed by smart kids with 6 mistakes . ABC was close behind with 5 mistakes . The most successful were DIY with 4 mistakes , cats with 3 mistakes and fearless with only 1 mistake .

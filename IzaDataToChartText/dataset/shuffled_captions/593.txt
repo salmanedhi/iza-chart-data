@@ -1,0 +1,1 @@
+This chart shows the closing stock price at Akef Inc during one working week . It shows a steady decline in stock price over the five days with a £ 60 difference from the beginning of the week to the end .

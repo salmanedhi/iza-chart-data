@@ -1,0 +1,1 @@
+This graph represents what students are choosing to study across a variety of subjects . The most popular at 50 % is STEM subjects . This is followed by literature and medicine at 20 % each and finally Philosophy at 10 % .

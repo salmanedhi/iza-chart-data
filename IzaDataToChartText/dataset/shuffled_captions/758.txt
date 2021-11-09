@@ -1,0 +1,1 @@
+This chart compares the representation of women in the literature department against that in various other departments . It shows the Literature department as having the lowest representation of women , at 21 % . Arts has slightly more at 31 % and Mathematics considerably more at 58 % . Computer Science is higher still , at 60 % and Engineering is the highest , at 70 % .

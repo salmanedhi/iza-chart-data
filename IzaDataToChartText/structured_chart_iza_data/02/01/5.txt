@@ -1,0 +1,1 @@
+This graph represents the median salary of women from the years 2000 - 2015 . The highest salary is in 2015 with 55 % , this is above the 50 % in 2010 . In 2005 the salary was 45 % and in 2000 40 % . This shows an increase every 5 years of 5 % .

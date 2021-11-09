@@ -1,0 +1,1 @@
+This shows the average salary earnt by women between the years of 2000 and 2015 . We can see that year on year , salaries are slowly increasing .

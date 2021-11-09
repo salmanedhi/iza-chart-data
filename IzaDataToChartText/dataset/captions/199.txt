@@ -1,0 +1,1 @@
+The chart shows the daily closing prices for Akef Inc stock over a period of a working week . \\n On Monday the stock closes at over £ 90 , falling on Tuesday to end at under £ 70 . Wednesday and Thursday see a continuing decline to around £ 60 and finally on Friday the price drops significantly , halving to just under £ 30 .

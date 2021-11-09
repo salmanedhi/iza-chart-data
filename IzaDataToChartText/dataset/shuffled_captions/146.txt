@@ -1,0 +1,1 @@
+This chart showed the success of different teams in the quiz , by comparing number of mistakes . Lovely made the most mistakes ( 9 ) , compared to Smart Kids ( 6 ) , ABC ( 5 ) , DIY ( 4 ) , Cats ( 3 ) and Fearless ( 1 ) .

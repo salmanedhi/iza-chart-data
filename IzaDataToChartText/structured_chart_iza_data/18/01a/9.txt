@@ -1,0 +1,1 @@
+The graph indicates price of digital cameras by brand , measured by average price of digital cameras ( GBP ) . \n The most expensive brand is Cambo ( 75 pounds ) , followed by Memoto ( 70 pounds ) . The least expensive camera brand is Konica ( 55 pounds ) .

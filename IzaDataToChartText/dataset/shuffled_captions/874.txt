@@ -1,0 +1,1 @@
+Stock closing prices for the week were highest on Monday at £ 92 , then decreased over the week - Tues = £ 68 , Wed = £ 61 , Thurs = £ 60 , Fri = £ 30 .

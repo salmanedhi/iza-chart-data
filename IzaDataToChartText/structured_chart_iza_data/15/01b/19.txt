@@ -1,0 +1,1 @@
+The graph shows the most successful quiz teams based on the numbers of mistakes they made . The most successful were Fearless with only 1 mistake whereas the least successful team were Lovely who made 9 mistakes in total .

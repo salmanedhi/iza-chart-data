@@ -1,0 +1,1 @@
+This chart shows the Median Salary of Software Engineers by degree level . The largest salary of 62 k are those with a PhD , followed by 52 k for those with a Masters , 42 k for those with a Bachelor degree and the smallest 32 k for those with no degree .

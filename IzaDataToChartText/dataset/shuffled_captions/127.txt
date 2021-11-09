@@ -1,0 +1,1 @@
+The chart shows the number of mistakes made by each team in a quiz competition . The Lovely team was least successful with 9 mistakes . Smart Kids made 6 mistakes , ABC made 5 mistakes and DIY made 4 mistakes . Cats made second place with only 3 mistakes and Fearless won the competition with only 1 mistake .

@@ -1,0 +1,1 @@
+This graph shows the median annual salary in $1000s for software engineers with respect to their original degree . Those with a PhD earn the most at $ 62 ,000 . A master's degree gets average earnings of $ 52 ,000 , whilst a BSc gets $ 42 ,000 on average . Those with no degree average a salary of $ 30 ,000 .

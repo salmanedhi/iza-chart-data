@@ -1,0 +1,1 @@
+this chart shows the least successful teams in the quiz competition and the number of mistakes each of the 6 teams made . Team Lovely made the most mistakes , totalling 9 , Smart Kids had the second most with 6 , followed by ABC making 5 , DIY with 4 , Cats with 3 , and finally team Fearless making the least number of mistakes with 1 .

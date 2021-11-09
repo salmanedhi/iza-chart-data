@@ -1,0 +1,1 @@
+The bar chart shows the percentage of students showing particular subjects at Lagos State University . There were 15 % choosing STEM subjects , approximately 24 % choosing Literature and 30 % choosing Philosophy . Roughly 31 % of students chose to study medicine .

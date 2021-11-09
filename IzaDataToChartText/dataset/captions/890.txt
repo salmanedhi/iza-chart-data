@@ -1,0 +1,1 @@
+This chart shows the number of mistakes made by 6 of the most successful teams in the quiz . \\n It shows that the Lovely team made the most mistakes ( Totalling 9 altogether ) , while the team that made the least mistakes was Fearless , with just 1 mistake .

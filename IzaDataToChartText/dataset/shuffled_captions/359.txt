@@ -1,0 +1,1 @@
+This chart shows the percentage of students choosing different areas of university subjects . 50 % choose a STEM-related subject ; 20 % choose literature , 20 % choose medicine and only 10 % choose philosophy .

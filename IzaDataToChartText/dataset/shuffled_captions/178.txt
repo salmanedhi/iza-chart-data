@@ -1,0 +1,1 @@
+This graph shows what students at Lagos State University chose to study . It shows that 15 % choose to study STEM , 24 % decide on Literature , 30 % go for Philosophy and 32 % Medicine .

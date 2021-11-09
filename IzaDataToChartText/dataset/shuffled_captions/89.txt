@@ -1,0 +1,1 @@
+Representation of women in university departments are highest in Literature , with 70 % . The next highest representation in in the Arts with a result of 60 % . Engineering follows with 30 % , then Computer Science with 20 % . Finally the lowest representation is in Mathematics where there is only 10 % .
