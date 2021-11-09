@@ -1,0 +1,1 @@
+This chart shows the temperature in degrees Celsius in 6 South American cities . The warmest is Belem with 36 , followed by Montevideo with 29 , Lima with 25 , Cordoba with 23 , Santiago with 20 , and finally Bogota with 16 .

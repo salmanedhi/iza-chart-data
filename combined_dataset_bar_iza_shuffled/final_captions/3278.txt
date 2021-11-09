@@ -1,0 +1,1 @@
+This chart shows the warmest cities in South America . \n It demonstrates that Belem is the warmest , with a temperature of 36 C , while Bogota is the coldest , with a temperature of 16 C .

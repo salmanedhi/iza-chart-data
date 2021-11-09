@@ -1,0 +1,1 @@
+Here we see a bar chart showing what students in lagos state university choose to study . \\n 15 % choose to study STEM subjects , Just under 25 % choose to study Literature , 30 % Philosophy and just over 30 % choose medicine .

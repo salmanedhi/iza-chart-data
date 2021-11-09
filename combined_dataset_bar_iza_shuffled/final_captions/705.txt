@@ -1,0 +1,1 @@
+This graph shows the number of mistakes made by each team in a quiz . The team Lovely made the most mistakes ( 9 ) , while smart kids , ABC and DIY follow with mistakes of 6 , 5 and 4 respectively . Fearless only made one mistake , making them the most successful in this competition .

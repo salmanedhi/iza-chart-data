@@ -1,0 +1,1 @@
+This bar chart shows representation of women in the literature department as a percentage by their respective departments . \\n The highest percentage were in engineering with 70 % , followed by computer science at 60 % . Mathematics was third highest at 55 % , followed then by Arts at 32 % . The lowest representation was in literature at 24 % .

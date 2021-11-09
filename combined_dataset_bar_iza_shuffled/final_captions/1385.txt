@@ -1,0 +1,1 @@
+Chart shows the number of mistakes made by team participants in a quiz competition . \\n \\n Clearly shows the Lovely team are the worst performers with over double the mistakes of the Cats team and 9 times those made by the fearless team \\n \\n 4 of the other teams sit in the range 3 - 6 mistakes .

@@ -1,0 +1,1 @@
+This chart shows what students at Lagos state university choose to study in percentage . \\n From the chart we can see that STEM is the lowest at approximately 15 % . The highest percentage is medicine at 32 % .

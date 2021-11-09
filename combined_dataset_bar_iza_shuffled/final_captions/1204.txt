@@ -1,0 +1,1 @@
+The closing stock prices between Monday and Friday have been unusual . During the first 3 days , the prices seemed to be fairly high being at a price of £ 74 on Wednesday . However , for the next two days it looks like the stock prices dropped dramatically having a price of only £ 9 on Friday .

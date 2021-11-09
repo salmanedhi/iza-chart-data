@@ -1,0 +1,1 @@
+This chart shows the number of women represented in different departments . Engineering has the most women at 70 % followed by Computer Science with 60 % , Mathematics with 54 % , Arts with 32 % and Literature with 22 % .

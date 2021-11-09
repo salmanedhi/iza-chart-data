@@ -1,0 +1,1 @@
+Bar chart showing the number of fatal injuries at the Pula Steel Factory from 2012 - 2016 . \\n \\n The bar chart shows a spike of 32 fatal injuries in 2013 , decreasing to 22 in 2015 , before rising again to 25 in 2016 .

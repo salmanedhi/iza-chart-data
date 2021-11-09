@@ -1,0 +1,1 @@
+This graph shows the number of mistakes made by different teams in a quiz . It shows a big difference between the mistakes made by team Lovely at 9 and team Fearless at 1 . The other teams vary somewhere in the middle .

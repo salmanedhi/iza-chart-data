@@ -1,0 +1,1 @@
+As you can see this graph shows the percentage of students who chose to study 4 different subjects these being , STEM , Literature , Philosophy and Medicine . Medicine was the most popular with just over 30 % of student choosing it although philosophy was close with 30 % choosing it . The least popular was STEM with only 15 % choosing it .

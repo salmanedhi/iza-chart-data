@@ -1,0 +1,1 @@
+This chart illustrates stock prices for Akef Inc over the course of the week . The stock rose from 52 £ on Monday to a high of 74 £ on Wednesday . It then plummeted sharply on Thursday to 22 £ , and fell again on Friday to 9 £ .

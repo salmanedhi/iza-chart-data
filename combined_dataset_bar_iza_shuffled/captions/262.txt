@@ -1,0 +1,1 @@
+This chart displays the cities with the warmest temperatures in South America . Belem has the highest temperature followed closely by Montevideo and Lima , with Cordoba , Santiago and Bogata in the lower half of the table .

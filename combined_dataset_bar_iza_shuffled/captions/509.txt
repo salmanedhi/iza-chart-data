@@ -1,0 +1,1 @@
+This chart shows the most successful teams in the quiz competition . \\n The most successful team is Fearless with only 1 mistake , followed by Cats with 3 mistakes and then DIY with 4 mistakes . The next team is ABC with 5 mistakes , then Smart Kids with 6 mistakes . The least successful team is Lovely with 9 mistakes .

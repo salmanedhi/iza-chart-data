@@ -1,0 +1,1 @@
+This bar chart shows the Number of fatal injuries at the Pula Steel Factory between years 2012 - 2016 . \\n In 2012 it was highest at 30 fatalities across the year . In 2013 it lowered to 25 fatalities , in 2014 it hit just above 15 fatalities . In 2015 it hit 15 , and in 2016 it hit 13 fatalities .

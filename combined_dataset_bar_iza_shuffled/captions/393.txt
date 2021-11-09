@@ -1,0 +1,1 @@
+The graphs shows the median salary of software engineers with respect to their degree . We can see that there is an approximately $ 20 ,000 salary difference between those with a bachelor degree and those with a Phd but only an approximate $ 10 ,000 difference between those with a degree and those without .

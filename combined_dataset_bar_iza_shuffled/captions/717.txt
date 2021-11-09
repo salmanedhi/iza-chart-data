@@ -1,0 +1,1 @@
+The graph shows the closing stock prices on each day of a week (Mon-Fri inclusive) at the Akef Inc company , in pounds . On Monday , stock prices were at their highest , at £ 92 , falling to £ 70 on Tuesday . There was a smaller decrease on Wednesday to £ 62 , and a marginal decrease to £ 60 on Thursday . By Friday , closing stock prices had fallen to £ 32 .

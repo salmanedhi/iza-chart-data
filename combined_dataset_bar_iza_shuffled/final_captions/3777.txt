@@ -1,0 +1,1 @@
+This bar chart represents the most affordable digital cameras by average price in pounds sterling by camera brand . \n The most expensive was the Cambo at 75 pounds sterling , followed by the Memoto at 70 pounds sterling . Sigma was third highest at 62 pounds sterling . Hunten then followed at 58 pounds sterling , and the cheapest was the Konica at 54 pounds sterling

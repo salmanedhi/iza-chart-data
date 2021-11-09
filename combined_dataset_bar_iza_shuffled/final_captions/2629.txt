@@ -1,0 +1,1 @@
+The graph indicates the least successfull teams in a quiz competition , measured by number of mistakes . \\n \\n Lovely was the least successful team , with 9 mistakes . Fearless was the most successful team , with 1 mistake . \\n \\n This is based on the assumption that success is measured by number of mistakes .

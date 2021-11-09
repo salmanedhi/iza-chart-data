@@ -1,0 +1,1 @@
+Chart shows the Median Salary of woman every 5 years between 2000 to 2015 . The charts shows it has steadily increased . In 2000 the salary was 40 k , 2005 it was 42 k , 2010 was 50 k and finally in 2015 it was 52 k

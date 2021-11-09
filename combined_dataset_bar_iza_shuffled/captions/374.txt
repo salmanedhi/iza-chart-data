@@ -1,0 +1,1 @@
+This graph displays the percentage of women in various law firms . The sector of insurance has the most with around 65 % , followed by Tech which has 60 % . The Financial groups is not far behind with around 50 % , however there is a decline when it comes to Law Firms as there is only around 35 % .

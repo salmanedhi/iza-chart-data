@@ -1,0 +1,1 @@
+The graph shows the number of Top 100 Universities per continent . America has the most at 50 , Europe second with 30 , then Asia with 20 and Africa and Australia are joint last with 6 each .

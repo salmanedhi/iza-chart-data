@@ -1,0 +1,1 @@
+This graph displays the average price of various models of camera in order to illustrate the most expensive . Highest in average price is Cambo , followed by Memoto and Sigma . Hunten and Konica have the lowest average prices .

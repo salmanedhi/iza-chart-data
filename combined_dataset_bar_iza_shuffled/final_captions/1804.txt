@@ -1,0 +1,1 @@
+This chart shows the average annual salary for software engineers relative to their degree . We can see that those who have no degree have a lower salary than those who have a bachelors degree . Those with a Masters or a PHD on average earn much more .

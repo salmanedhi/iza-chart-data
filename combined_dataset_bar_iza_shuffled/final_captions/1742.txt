@@ -1,0 +1,1 @@
+The graph shows which departments students chose by percentage . The largest is STEM studies at 50 % , followed by Literature and Medicine both with 20 % and finally Philosophy at 10 %

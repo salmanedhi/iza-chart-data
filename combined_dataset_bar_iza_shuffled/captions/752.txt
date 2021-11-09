@@ -1,0 +1,1 @@
+This chart demonstrates how many women are in each university department . 70 % of people in the literature department are female , compared to 60 % in Arts , 30 % in Engineering , 20 % in computer science and 10 % in Maths . This may be because there is less emphasis placed on encouraging women into STEM subjects, and there are and underrepresentation of women in this area .

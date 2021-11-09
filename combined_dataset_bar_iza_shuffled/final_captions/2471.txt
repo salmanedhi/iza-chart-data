@@ -1,0 +1,1 @@
+This graph depicts the percentage of women representation in different university departments in Narvik . In Computer Science , 60 % of the department are women , in Arts 32 % of the department are women , in Mathematics 66 % of the department are women , in Literature 22 % of the department are women , and in Engineering 70 % of the department are women .

@@ -1,0 +1,1 @@
+Shows a range of university departments and their represenation as a percentage of women attending the course . \\n From the chart we can see that courses in Arts and Literature are preferred by women with majority percentages of 60 and 70 percent . \\n Computer Science , Mathematics and Engineering are all preferred by men , with percentages of 20 , 10 , and 30 .

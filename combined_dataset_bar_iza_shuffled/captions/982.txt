@@ -1,0 +1,1 @@
+This bar chart shows the percentage of countries that are least equal given the gender pay gap . Germany has the highest percentage at 21 % , followed by the second highest the UK at 20.5 % , and then Spain at 15 % .

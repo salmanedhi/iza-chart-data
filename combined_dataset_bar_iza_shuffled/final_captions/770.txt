@@ -1,0 +1,1 @@
+Bar chart showing closing stock prices of Akef Inc for the week . \\n \\n The closing stock prices decrease as the week progresses ; from £ 91 on Monday , to £ 30 on Friday .

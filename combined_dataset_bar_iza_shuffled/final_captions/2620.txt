@@ -1,0 +1,1 @@
+This graph shows percentages of women in different university departments . Literature departments show the greatest representation at 70 % , and arts departments have 60 % . female representation in Engineering departments is 30 % , Computer science 20 % , and Maths lowest at 10 % .

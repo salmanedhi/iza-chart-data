@@ -1,0 +1,1 @@
+This graph shows a trend that the higher the qualifications held by software engineer , the greater the salary they receive . Those with no degree receive almost half of the salary received by those with a PHd . Education increases earning potential .

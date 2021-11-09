@@ -1,0 +1,1 @@
+This chart shows the percentage of women represented in various departments in a school . It shows Engineering is at the top at 70 % , while Literature is at the bottom at 23 % . In between these are Computer Science at 60 % , Mathematics at 55 % and Arts at 32 % .

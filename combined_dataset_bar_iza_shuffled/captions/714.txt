@@ -1,0 +1,1 @@
+This chart shows closing stock prices for akef Inc for the week . The highest is Wednesday at £ 75 then Tue at £ 60 , then Mon at £ 50 then Thursday at £ 20 and lastly Fri at £ 10 .

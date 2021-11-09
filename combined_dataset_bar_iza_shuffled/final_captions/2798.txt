@@ -1,0 +1,1 @@
+Bogata is the coldest city in the surveyed data while Belem is the warmest .

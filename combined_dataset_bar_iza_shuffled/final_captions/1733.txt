@@ -1,0 +1,1 @@
+This graph shows the number of mistakes made by each team in the quiz competition . As you can see , Team Fearless made the fewest mistakes , only 1 , while Team Lovely made the most - 9 .

@@ -1,0 +1,1 @@
+Literature is shown to be the most inclusive uni department with a percentage of 70 . Maths is the least with 10 % . Arts has a percentage of 60 % , Engineering 30 % and computer science 20 % .

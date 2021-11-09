@@ -1,0 +1,1 @@
+This graph shows the median salary for Software Engineers dependant on degree level . Persons holding PhD level earn the highest , followed by Masters , then Bachelors and finally no degree .

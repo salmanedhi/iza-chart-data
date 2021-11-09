@@ -1,0 +1,1 @@
+This graph demonstrates success in a quiz competition . The Lovely team performed worst with 9 mistakes ; the Smart Kids made 6 mistakes , the ABC team made 5 mistakes , followed by the DIY on 4 mistakes and Cats on 3 mistakes . Fearless won the quiz with only 1 mistake .

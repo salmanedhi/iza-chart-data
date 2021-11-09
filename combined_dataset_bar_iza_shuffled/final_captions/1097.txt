@@ -1,0 +1,1 @@
+This chart shows the number of mistakes made by 6 teams in a quiz . The most successful team is Fearless with just a single mistake , followed by Cats with 3 , DIY with 4 , ABC with 5 , Smart Kids with 6 , and finally Lovely with 9 .

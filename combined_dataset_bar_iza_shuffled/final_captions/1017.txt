@@ -1,0 +1,1 @@
+This chart shows the closing stock price for Akef Inc, for each day of the working week . There is an increase from Monday to Wednesday , before a sharp decline on Thursday and Friday .

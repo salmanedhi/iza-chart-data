@@ -1,0 +1,1 @@
+The title indicates percentage of women representation in law firms . However , dataset indicates representation across Financial Services , Tech , Insurance , and Law Firms . \\n \\n Insurance has the highest percentage of female representation ( 65 % ) , closely followed by Tech ( 62 % ) . Law Firms have the lowest female representation ( 35 % ) .
