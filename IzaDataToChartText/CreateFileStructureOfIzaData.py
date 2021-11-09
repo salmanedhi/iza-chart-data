@@ -1,6 +1,8 @@
 # this file creates a folder structure for topics/charts/summaries of iza data
 from xml.dom import minidom
 import json
+import csv
+
 
 summaries_xml = minidom.parse('chart_summaries_b01_toktest2.xml')
 
@@ -31,6 +33,49 @@ for topic in topicsArr:
     chart_id = topic.split('_')[1]
     
     chart = json_chart_data[topic]
-    with open('./structured_chart_iza_data/' +  str(topic_id) + '/' + str(chart_id) + '/title.txt', mode='wt', encoding='utf8') as myfile1:
-        myfile1.write(chart['general_figure_info']['title']['text'])
+
+    # Writing data tables of charts to text file
+    x_title = chart['general_figure_info']['x_axis']['label']['text']
+    x_title = x_title.replace(" ", "_")
+        
+    if x_title == "":
+        print('x_title empty: ', topic_id, chart_id)
+        ignore = True
+        x_title = "type"
+        
+    y_title = chart['general_figure_info']['y_axis']['label']['text']
+    y_title_final = ""
+    for char in y_title:
+        if(char == " "):
+            y_title_final += "_"
+        elif(char.isalnum()):
+            y_title_final += char
+    if(y_title_final[-1] == "_"):
+        y_title_final = y_title_final[:-1]
+
+    y_title = y_title_final
+    if y_title == "":
+        print('y_title empty: ', topic_id, chart_id)
+        ignore = True
+        y_title = "type"
+    
+    f = open('./structured_chart_iza_data/' +  str(topic_id) + '/' + str(chart_id) + '/data.csv', 'w', newline='', encoding="utf-8")
+    writer = csv.writer(f)
+    writer.writerow([x_title, y_title])
+
+    for x, y in zip(chart['models'][0]['x'], chart['models'][0]['y']):
+        if(type(x) is str):
+            x = x.replace(" ", "_")
+        if(type(y) is str):
+            y = y.replace(" ", "_")
+        try:
+            writer.writerow([x, y])
+        except:
+            print(x, y)
+            raise Exception("Sorry, no numbers below zero")
+    
+    f.close() 
+
+    # with open('./structured_chart_iza_data/' +  str(topic_id) + '/' + str(chart_id) + '/title.txt', mode='wt', encoding='utf8') as myfile1:
+    #     myfile1.write(chart['general_figure_info']['title']['text'])
     
